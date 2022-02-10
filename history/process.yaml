@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE07SHSM-MFD35-04-ADCPTC000-recovered_host-adcp_velocity_earth
 data_stream: CE07SHSM-MFD35-04-ADCPTC000-recovered_host-adcp_velocity_earth
 end_date: '2021-03-29T08:30:48.129Z'
-last_updated: '2022-02-10T10:54:57.274272Z'
+last_updated: '2022-02-10T11:01:44.335856'
 start_date: '2016-05-05T19:32:58.005Z'
-status: pending
+status: success
